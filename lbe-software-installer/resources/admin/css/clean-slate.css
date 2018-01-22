@@ -1,0 +1,9 @@
+div.options {width: 80%;}
+div.options textarea {width: 80%; height: 200px;}
+div.options input[type="text"], div.options textarea {width: 50%; float: right;}
+div.option.common_theme {display: inline-block; width: 30%; padding: 5px; margin: 5px 0px;}
+div.option.common_theme img {width: 100%;}
+
+div.options div.option div.option_sub_sub {clear: both; padding: 3px;}
+div.options div.option div.option_sub {clear: both; margin-left: 3%; padding: 3px;}
+div.options div.option {padding: 3px; clear: both;}
