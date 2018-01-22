@@ -3,7 +3,7 @@
 * Plugin Name: LBE Software Installer
 * Plugin URI: http://www.marketingwithdan.com
 * Description: Install LBE-Approved Plugins
-* Version: 1.1.7
+* Version: 1.1.8
 * Author: Dan Mattson
 * Author URI: http://www.marketingwithdan.com
 * License: GPL2
