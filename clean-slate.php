@@ -3,7 +3,7 @@
 * Plugin Name: LBE Software Installer
 * Plugin URI: http://www.marketingwithdan.com
 * Description: Install LBE-Approved Plugins
-* Version: 1.1.8
+* Version: 1.1.9
 * Author: Dan Mattson
 * Author URI: http://www.marketingwithdan.com
 * License: GPL2
@@ -272,6 +272,13 @@ class CleanSlate{
                                 "label"      => __("WP Mail SMTP by WPForms (WP-Mail-SMTP) - Use this with InstaMember", __CLEAN_SLATE_PLUGIN_SLUG__),
                                 "type"      => "checkbox",
                                 "zip"       => array("https://downloads.wordpress.org/plugin/wp-mail-smtp.zip"),
+                                "action"    => "install_plugin"
+            ),
+            "plugin_convertplug"
+                            => array(
+                                "label"      => __("NEW - ConvertPlug", __CLEAN_SLATE_PLUGIN_SLUG__),
+                                "type"      => "checkbox",
+                                "zip"       => array("https://kernl-file-uploads.s3.amazonaws.com/uploads/22-01-2018/08-04-14/convertplug/convertplug.zip"),
                                 "action"    => "install_plugin"
             ),
             "plugin_custom" => array(
