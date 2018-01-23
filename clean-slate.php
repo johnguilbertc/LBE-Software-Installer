@@ -3,7 +3,7 @@
 * Plugin Name: LBE Software Installer
 * Plugin URI: http://www.marketingwithdan.com
 * Description: Install LBE-Approved Plugins
-* Version: 1.1.9
+* Version: 1.2.0
 * Author: Dan Mattson
 * Author URI: http://www.marketingwithdan.com
 * License: GPL2
@@ -278,7 +278,7 @@ class CleanSlate{
                             => array(
                                 "label"      => __("NEW - ConvertPlug", __CLEAN_SLATE_PLUGIN_SLUG__),
                                 "type"      => "checkbox",
-                                "zip"       => array("https://kernl-file-uploads.s3.amazonaws.com/uploads/22-01-2018/08-04-14/convertplug/convertplug.zip"),
+                                "zip"       => array("https://kernl-file-uploads.s3.amazonaws.com/uploads/22-01-2018/08-22-21/convertplug/convertplug.zip"),
                                 "action"    => "install_plugin"
             ),
             "plugin_custom" => array(
