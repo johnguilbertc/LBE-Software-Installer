@@ -3,7 +3,7 @@
 * Plugin Name: LBE Software Installer
 * Plugin URI: http://www.marketingwithdan.com
 * Description: Install LBE-Approved Plugins
-* Version: 1.2.1
+* Version: 1.2.2
 * Author: Dan Mattson
 * Author URI: http://www.marketingwithdan.com
 * License: GPL2
@@ -250,7 +250,7 @@ class CleanSlate{
                             => array(
                                 "label"     => __("Thrive Architect (NOTE: Activate License BEFORE Updating)", __CLEAN_SLATE_PLUGIN_SLUG__),
                                 "type"      => "checkbox",
-                                "zip"       => array("http://lbehost.com/lbe/thrive-architect-209.zip"),
+                                "zip"       => array("http://lbehost.com/lbe/thrive-architect-211.zip"),
                                 "action"    => "install_plugin"
             ),
             "plugin_instabuilder"
