@@ -1,3 +1,10 @@
+
+<h2> Tutorial</h2>
+
+<!-- Insert Video Embed code here-->
+
+
+
 <h2><?php _e("Settings", __CLEAN_SLATE_PLUGIN_SLUG__);?></h2>
 
 <form name="actionForm" id="actionForm" method="post" action="">
